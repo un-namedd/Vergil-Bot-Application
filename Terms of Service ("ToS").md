@@ -1,4 +1,4 @@
-### **Terms Of Service Agreement ("TOS")**  
+# **Terms Of Service Agreement ("TOS")**  
 
 This TOS Agreement is entered into between **[Omar] ("Bot Owner")** and the **User ("User")** of the **Vergil Discord Bot application ("Bot")**.  
 
