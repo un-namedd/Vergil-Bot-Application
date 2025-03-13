@@ -1,13 +1,3 @@
-Here's an updated **Terms of Service (TOS) and Privacy Policy** with strict restrictions on modification, redistribution, and monetization. I made sure to include explicit prohibitions against:  
-- Modifying, copying, reverse-engineering, or distributing the bot.  
-- Monetizing the bot or any part of its functionality.  
-- Using the bot for commercial purposes without permission.  
-- Claiming ownership over any part of the bot.  
-
-Let me know if you need additional changes!  
-
----
-
 ### **Terms Of Service Agreement ("TOS")**  
 
 This TOS Agreement is entered into between **[Omar] ("Bot Owner")** and the **User ("User")** of the **Vergil Discord Bot application ("Bot")**.  
