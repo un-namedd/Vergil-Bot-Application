@@ -1,21 +1,21 @@
 # **Terms Of Service Agreement ("TOS")**  
 
-This TOS Agreement is entered into between **[Omar] ("Bot Owner")** and the **User ("User")** of the **Vergil Discord Bot application ("Bot")**.  
+This TOS Agreement is entered into between **[Omar] ("Bot Owner")** and the **User ("User")** of the **Vergil Discord Bot Application ("Bot")**.  
 
 By using this Bot, the User agrees to be bound by the terms of this Agreement. If the User does not agree to the terms of this Agreement, the User must **immediately discontinue usage** of the Bot.  
 
 ---
 
 ### **1. License Grant & Restrictions**  
-The Bot Owner grants the User a **non-exclusive, non-transferable, revocable** license to use the Bot **strictly for personal and non-commercial purposes**.  
+The Bot Owner grants the User a **non-exclusive, non-transferable, revocable license** to use the Bot **strictly for personal and non-commercial purposes** under the terms of the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
 
-The User **MAY NOT:**  
-- Modify, copy, reproduce, reverse-engineer, decompile, disassemble, or attempt to extract the source code of the Bot.  
-- Distribute, resell, rent, lease, sublicense, or otherwise monetize the Bot in any way.  
-- Use the Bot in any manner that competes with or diminishes the value of the Bot.  
-- Claim ownership, authorship, or credit for any part of the Bot or its functionality.  
+The User **MAY NOT**:
+- Modify, copy, reproduce, reverse-engineer, decompile, disassemble, or attempt to extract the source code of the Bot.
+- Distribute, resell, rent, lease, sublicense, or otherwise monetize the Bot in any way.
+- Use the Bot in any manner that competes with or diminishes the value of the Bot.
+- Claim ownership, authorship, or credit for any part of the Bot or its functionality.
 
-Any unauthorized use **immediately terminates this license.**  
+Any unauthorized use **immediately terminates this license**.
 
 ---
 
@@ -68,7 +68,7 @@ This Agreement may be terminated by either party at any time.
 ---
 
 ### **8. Governing Law**  
-This Agreement shall be governed by and construed in accordance with the laws of **[Your country/state/province]**. Any disputes shall be resolved through arbitration under **[Your arbitration provider]**.  
+This Agreement shall be governed by and construed in accordance with the laws of the Province of Ontario, Canada. Any disputes arising from or in connection with this Agreement shall be resolved through arbitration under the Arbitration Act, 1991 (Ontario). The arbitration shall be conducted by the Canadian Arbitration Association (CAA) in Ontario.
 
 ---
 
